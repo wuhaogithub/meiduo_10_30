@@ -1,0 +1,293 @@
+INFO 2019-10-30 02:52:23,242 basehttp 124 "GET / HTTP/1.1" 200 1716
+WARNING 2019-10-30 02:52:23,271 base 152 Not Found: /favicon.ico
+WARNING 2019-10-30 02:52:23,273 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 1968
+ERROR 2019-10-30 02:52:40,901 exception 80 Invalid HTTP_HOST header: 'www.meiduo.site:8000'. You may need to add 'www.meiduo.site' to ALLOWED_HOSTS.
+WARNING 2019-10-30 02:52:41,048 basehttp 124 "GET /carts/simple/ HTTP/1.1" 400 70680
+ERROR 2019-10-30 03:00:57,321 basehttp 124 "GET /static/index.html HTTP/1.1" 500 59
+ERROR 2019-10-30 03:00:57,337 exception 80 Invalid HTTP_HOST header: 'www.meiduo.site:8000'. You may need to add 'www.meiduo.site' to ALLOWED_HOSTS.
+WARNING 2019-10-30 03:00:57,469 basehttp 124 "GET /favicon.ico HTTP/1.1" 400 71401
+ERROR 2019-10-30 03:01:05,091 basehttp 124 "GET /static/index.html HTTP/1.1" 500 59
+ERROR 2019-10-30 03:01:05,114 exception 80 Invalid HTTP_HOST header: 'www.meiduo.site:8000'. You may need to add 'www.meiduo.site' to ALLOWED_HOSTS.
+WARNING 2019-10-30 03:01:05,252 basehttp 124 "GET /favicon.ico HTTP/1.1" 400 71402
+WARNING 2019-10-30 03:01:22,802 basehttp 124 "GET /static/index.html HTTP/1.1" 404 1649
+WARNING 2019-10-30 03:01:22,849 base 152 Not Found: /favicon.ico
+WARNING 2019-10-30 03:01:22,851 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 1974
+WARNING 2019-10-30 03:01:24,124 basehttp 124 "GET /static/index.html HTTP/1.1" 404 1649
+WARNING 2019-10-30 03:01:29,200 basehttp 124 "GET /static/index.html HTTP/1.1" 404 1649
+WARNING 2019-10-30 03:02:05,035 basehttp 124 "GET /static/index.html HTTP/1.1" 404 1649
+WARNING 2019-10-30 03:02:10,493 basehttp 124 "GET /static/index.html HTTP/1.1" 404 1649
+WARNING 2019-10-30 03:03:18,025 basehttp 124 "GET /static/index.html HTTP/1.1" 404 1649
+WARNING 2019-10-30 03:05:36,734 basehttp 124 "GET /static/index.html HTTP/1.1" 404 1649
+INFO 2019-10-30 03:05:47,494 basehttp 124 "GET / HTTP/1.1" 200 1716
+WARNING 2019-10-30 03:06:09,314 basehttp 124 "GET /static/index.html HTTP/1.1" 404 1649
+WARNING 2019-10-30 03:06:21,898 base 152 Not Found: /carts/simple/
+WARNING 2019-10-30 03:06:21,900 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 1980
+WARNING 2019-10-30 03:06:41,243 basehttp 124 "GET /static/index.html HTTP/1.1" 404 1649
+INFO 2019-10-30 03:10:22,186 basehttp 124 "GET /static/index.html HTTP/1.1" 200 30009
+WARNING 2019-10-30 03:10:22,403 base 152 Not Found: /carts/simple/
+WARNING 2019-10-30 03:10:22,405 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 1980
+INFO 2019-10-30 03:18:53,825 basehttp 124 "GET /static/index.html HTTP/1.1" 304 0
+ERROR 2019-10-30 03:18:54,020 exception 80 Invalid HTTP_HOST header: 'www.meiduo.site:8000'. You may need to add 'www.meiduo.site' to ALLOWED_HOSTS.
+WARNING 2019-10-30 03:18:54,168 basehttp 124 "GET /carts/simple/ HTTP/1.1" 400 71453
+INFO 2019-10-30 03:18:56,622 basehttp 124 "GET /static/index.html HTTP/1.1" 304 0
+ERROR 2019-10-30 03:18:56,752 exception 80 Invalid HTTP_HOST header: 'www.meiduo.site:8000'. You may need to add 'www.meiduo.site' to ALLOWED_HOSTS.
+WARNING 2019-10-30 03:18:56,900 basehttp 124 "GET /carts/simple/ HTTP/1.1" 400 71454
+INFO 2019-10-30 03:18:58,738 basehttp 124 "GET /static/index.html HTTP/1.1" 304 0
+ERROR 2019-10-30 03:18:58,871 exception 80 Invalid HTTP_HOST header: 'www.meiduo.site:8000'. You may need to add 'www.meiduo.site' to ALLOWED_HOSTS.
+WARNING 2019-10-30 03:18:59,021 basehttp 124 "GET /carts/simple/ HTTP/1.1" 400 71454
+INFO 2019-10-30 04:02:49,042 basehttp 124 "GET /register HTTP/1.1" 301 0
+INFO 2019-10-30 04:02:49,070 basehttp 124 "GET /register/ HTTP/1.1" 200 3282
+INFO 2019-10-30 04:02:49,079 basehttp 124 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2019-10-30 06:57:33,766 basehttp 124 "GET /register/ HTTP/1.1" 200 3282
+INFO 2019-10-30 06:57:35,471 basehttp 124 "GET /register/ HTTP/1.1" 200 3282
+INFO 2019-10-30 08:16:36,781 basehttp 124 "GET /register/ HTTP/1.1" 200 3655
+INFO 2019-10-30 08:16:40,596 basehttp 124 "GET /register/ HTTP/1.1" 200 3655
+INFO 2019-10-30 08:18:47,507 basehttp 124 "GET /register/ HTTP/1.1" 200 3657
+INFO 2019-10-30 08:18:49,816 basehttp 124 "GET /register/ HTTP/1.1" 200 3657
+INFO 2019-10-30 08:18:52,666 basehttp 124 "GET /register/ HTTP/1.1" 200 3657
+WARNING 2019-10-30 08:18:59,872 base 152 Not Found: /
+WARNING 2019-10-30 08:18:59,874 basehttp 124 "GET / HTTP/1.1" 404 2267
+WARNING 2019-10-30 08:18:59,917 base 152 Not Found: /favicon.ico
+WARNING 2019-10-30 08:18:59,919 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 2318
+INFO 2019-10-30 08:19:09,726 basehttp 124 "GET /register HTTP/1.1" 301 0
+INFO 2019-10-30 08:19:09,737 basehttp 124 "GET /register/ HTTP/1.1" 200 3657
+INFO 2019-10-30 08:19:59,244 basehttp 124 "GET /register/ HTTP/1.1" 200 3935
+WARNING 2019-10-30 08:19:59,324 base 152 Not Found: /image_codes/bd2093ba-7bf6-4762-95eb-3a233d1ae214/
+WARNING 2019-10-30 08:19:59,325 basehttp 124 "GET /image_codes/bd2093ba-7bf6-4762-95eb-3a233d1ae214/ HTTP/1.1" 404 2432
+INFO 2019-10-30 08:20:20,303 basehttp 124 "GET /register/ HTTP/1.1" 200 3935
+WARNING 2019-10-30 08:20:20,378 base 152 Not Found: /image_codes/b356aecc-66ca-4135-b9d2-841e3c932913/
+WARNING 2019-10-30 08:20:20,379 basehttp 124 "GET /image_codes/b356aecc-66ca-4135-b9d2-841e3c932913/ HTTP/1.1" 404 2432
+ERROR 2019-10-30 08:21:07,051 exception 135 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/views/generic/base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/python/Desktop/meiduo_2019_10_30/wuhao_project_2019_10/meiduo_10_30/apps/users/views.py", line 30, in post
+    if not re.math(r'[a-zA-Z0-9]{5,20}', username):
+AttributeError: module 're' has no attribute 'math'
+ERROR 2019-10-30 08:21:07,248 basehttp 124 "POST /register/ HTTP/1.1" 500 85683
+INFO 2019-10-30 08:21:47,536 basehttp 124 "GET /register/ HTTP/1.1" 200 3935
+WARNING 2019-10-30 08:21:47,611 base 152 Not Found: /image_codes/8baf2da6-e208-42e2-b834-2c3a90878af2/
+WARNING 2019-10-30 08:21:47,612 basehttp 124 "GET /image_codes/8baf2da6-e208-42e2-b834-2c3a90878af2/ HTTP/1.1" 404 2432
+ERROR 2019-10-30 08:23:05,103 exception 135 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/views/generic/base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/python/Desktop/meiduo_2019_10_30/wuhao_project_2019_10/meiduo_10_30/apps/users/views.py", line 30, in post
+    if not re.math(r'[a-zA-Z0-9]{5,20}', username):
+AttributeError: module 're' has no attribute 'math'
+ERROR 2019-10-30 08:23:05,282 basehttp 124 "POST /register/ HTTP/1.1" 500 85681
+INFO 2019-10-30 08:25:56,584 basehttp 124 "GET /register/ HTTP/1.1" 200 3935
+WARNING 2019-10-30 08:25:56,666 base 152 Not Found: /image_codes/28c943a1-f0fd-4699-8c91-77e8a6103240/
+WARNING 2019-10-30 08:25:56,669 basehttp 124 "GET /image_codes/28c943a1-f0fd-4699-8c91-77e8a6103240/ HTTP/1.1" 404 2432
+ERROR 2019-10-30 08:26:55,188 exception 135 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/views/generic/base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/python/Desktop/meiduo_2019_10_30/wuhao_project_2019_10/meiduo_10_30/apps/users/views.py", line 53, in post
+    return render(reverse('contents: index'))
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/urls/base.py", line 91, in reverse
+    return force_text(iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs)))
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/urls/resolvers.py", line 497, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for ' index' not found. ' index' is not a valid view function or pattern name.
+ERROR 2019-10-30 08:26:55,394 basehttp 124 "POST /register/ HTTP/1.1" 500 97389
+INFO 2019-10-30 08:27:52,978 basehttp 124 "GET /register/ HTTP/1.1" 200 3935
+WARNING 2019-10-30 08:27:53,057 base 152 Not Found: /image_codes/d21063e1-d4b8-42a0-b6d6-66b78426f1da/
+WARNING 2019-10-30 08:27:53,058 basehttp 124 "GET /image_codes/d21063e1-d4b8-42a0-b6d6-66b78426f1da/ HTTP/1.1" 404 2432
+ERROR 2019-10-30 08:28:31,083 exception 135 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/db/backends/utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/db/backends/mysql/base.py", line 101, in execute
+    return self.cursor.execute(query, args)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.IntegrityError: (1062, "Duplicate entry 'wuhao' for key 'username'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/views/generic/base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/python/Desktop/meiduo_2019_10_30/wuhao_project_2019_10/meiduo_10_30/apps/users/views.py", line 47, in post
+    mobile=mobile)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/contrib/auth/models.py", line 159, in create_user
+    return self._create_user(username, email, password, **extra_fields)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/contrib/auth/models.py", line 153, in _create_user
+    user.save(using=self._db)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/contrib/auth/base_user.py", line 80, in save
+    super(AbstractBaseUser, self).save(*args, **kwargs)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/db/models/base.py", line 808, in save
+    force_update=force_update, update_fields=update_fields)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/db/models/base.py", line 838, in save_base
+    updated = self._save_table(raw, cls, force_insert, force_update, using, update_fields)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/db/models/base.py", line 924, in _save_table
+    result = self._do_insert(cls._base_manager, using, fields, update_pk, raw)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/db/models/base.py", line 963, in _do_insert
+    using=using, raw=raw)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/db/models/query.py", line 1076, in _insert
+    return query.get_compiler(using=using).execute_sql(return_id)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/db/models/sql/compiler.py", line 1112, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/db/backends/utils.py", line 79, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/db/backends/utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/db/utils.py", line 94, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/utils/six.py", line 685, in reraise
+    raise value.with_traceback(tb)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/db/backends/utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/db/backends/mysql/base.py", line 101, in execute
+    return self.cursor.execute(query, args)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.IntegrityError: (1062, "Duplicate entry 'wuhao' for key 'username'")
+ERROR 2019-10-30 08:28:31,527 basehttp 124 "POST /register/ HTTP/1.1" 500 243349
+INFO 2019-10-30 08:30:04,644 basehttp 124 "GET /register/ HTTP/1.1" 200 3935
+WARNING 2019-10-30 08:30:04,715 base 152 Not Found: /image_codes/cffbde78-afa8-44be-84f7-5cd2d09b9d08/
+WARNING 2019-10-30 08:30:04,716 basehttp 124 "GET /image_codes/cffbde78-afa8-44be-84f7-5cd2d09b9d08/ HTTP/1.1" 404 2432
+ERROR 2019-10-30 08:31:00,440 exception 135 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/views/generic/base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/python/Desktop/meiduo_2019_10_30/wuhao_project_2019_10/meiduo_10_30/apps/users/views.py", line 53, in post
+    return redirect(reverse('contents: index'))
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/urls/base.py", line 91, in reverse
+    return force_text(iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs)))
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/urls/resolvers.py", line 497, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for ' index' not found. ' index' is not a valid view function or pattern name.
+ERROR 2019-10-30 08:31:00,635 basehttp 124 "POST /register/ HTTP/1.1" 500 97405
+INFO 2019-10-30 08:31:21,317 basehttp 124 "GET /register/ HTTP/1.1" 200 3935
+WARNING 2019-10-30 08:31:21,420 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+WARNING 2019-10-30 08:31:21,445 base 152 Not Found: /image_codes/5eb347c9-d3ef-4c01-8327-576234ef628c/
+WARNING 2019-10-30 08:31:21,446 basehttp 124 "GET /image_codes/5eb347c9-d3ef-4c01-8327-576234ef628c/ HTTP/1.1" 404 2432
+ERROR 2019-10-30 08:36:09,367 exception 135 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/views/generic/base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/python/Desktop/meiduo_2019_10_30/wuhao_project_2019_10/meiduo_10_30/apps/users/views.py", line 53, in post
+    return redirect(reverse('contents: index'))
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/urls/base.py", line 91, in reverse
+    return force_text(iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs)))
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/urls/resolvers.py", line 497, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for ' index' not found. ' index' is not a valid view function or pattern name.
+ERROR 2019-10-30 08:36:09,549 basehttp 124 "POST /register/ HTTP/1.1" 500 97409
+INFO 2019-10-30 08:37:10,545 basehttp 124 "GET /register/ HTTP/1.1" 200 3935
+INFO 2019-10-30 08:37:23,442 basehttp 124 "GET /register/ HTTP/1.1" 200 3935
+WARNING 2019-10-30 08:37:23,545 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+WARNING 2019-10-30 08:37:23,577 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1667
+WARNING 2019-10-30 08:37:55,692 base 152 Not Found: /image_codes/5a222082-a7a7-443f-a746-a4e26db79b44/
+WARNING 2019-10-30 08:37:55,694 basehttp 124 "GET /image_codes/5a222082-a7a7-443f-a746-a4e26db79b44/ HTTP/1.1" 404 2432
+INFO 2019-10-30 08:44:13,121 basehttp 124 "GET /register HTTP/1.1" 301 0
+INFO 2019-10-30 08:44:13,154 basehttp 124 "GET /register/ HTTP/1.1" 200 3935
+WARNING 2019-10-30 08:44:13,229 base 152 Not Found: /image_codes/f1cd8b96-c5ff-432f-b5b0-39a130c0c67e/
+WARNING 2019-10-30 08:44:13,230 basehttp 124 "GET /image_codes/f1cd8b96-c5ff-432f-b5b0-39a130c0c67e/ HTTP/1.1" 404 2432
+INFO 2019-10-30 08:44:17,574 basehttp 124 "GET /index HTTP/1.1" 301 0
+ERROR 2019-10-30 08:44:17,579 exception 135 Internal Server Error: /index/
+Traceback (most recent call last):
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/python/.virtualenvs/meiduo_mall/lib/python3.5/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: as_view() takes 1 positional argument but 2 were given
+ERROR 2019-10-30 08:44:17,721 basehttp 124 "GET /index/ HTTP/1.1" 500 69726
+INFO 2019-10-30 08:52:53,894 basehttp 124 "GET /register/ HTTP/1.1" 200 3935
+INFO 2019-10-30 08:52:53,967 basehttp 124 "GET /static/css/main.css HTTP/1.1" 200 39722
+INFO 2019-10-30 08:52:53,969 basehttp 124 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2019-10-30 08:52:53,970 basehttp 124 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2019-10-30 08:52:53,975 basehttp 124 "GET /static/js/host.js HTTP/1.1" 200 80
+INFO 2019-10-30 08:52:53,983 basehttp 124 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2019-10-30 08:52:53,984 basehttp 124 "GET /static/js/register.js HTTP/1.1" 200 7825
+INFO 2019-10-30 08:52:53,987 basehttp 124 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2019-10-30 08:52:53,990 basehttp 124 "GET /static/images/logo.png HTTP/1.1" 200 7450
+WARNING 2019-10-30 08:52:54,064 base 152 Not Found: /image_codes/26b4f6d5-be61-41f7-977a-f13fa3ca5ed6/
+WARNING 2019-10-30 08:52:54,067 basehttp 124 "GET /image_codes/26b4f6d5-be61-41f7-977a-f13fa3ca5ed6/ HTTP/1.1" 404 2432
+INFO 2019-10-30 08:52:54,069 basehttp 124 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2019-10-30 08:52:54,074 basehttp 124 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+INFO 2019-10-30 08:52:54,077 basehttp 124 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+WARNING 2019-10-30 08:52:54,174 base 152 Not Found: /favicon.ico
+WARNING 2019-10-30 08:52:54,175 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 2318
